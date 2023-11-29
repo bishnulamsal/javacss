@@ -179,7 +179,7 @@ function getNepaliMonthInString(month) {
             break;
 
         case 8:
-            nepaliMonth = "मंग्सिर";
+            nepaliMonth = "मंसिर";
             break;
 
         case 9:
